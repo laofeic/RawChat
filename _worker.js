@@ -1,3 +1,5 @@
+'use strict'
+
 // 上游网站的域名
 const upstream = 'https://chat.rawchat.cc/';
 
